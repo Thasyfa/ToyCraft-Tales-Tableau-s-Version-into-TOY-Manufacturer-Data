@@ -1,0 +1,2 @@
+# ToyCraft-Tales-Tableau-s-Version-into-TOY-Manufacturer-Data
+ToyCraft Tales – Tableau’s Version into Toy Manufacturer Data is a data analysis project that uses Tableau Software to visualize toy manufacturing and sales data. It transforms raw data into interactive dashboards to identify trends, monitor performance, and support better business decisions through clear insights and data storytelling.
